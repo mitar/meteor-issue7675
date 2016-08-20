@@ -1,0 +1,3 @@
+[submodule "packages/fourseven:scss"]
+	path = packages/fourseven:scss
+	url = https://github.com/fourseven/meteor-scss.git
